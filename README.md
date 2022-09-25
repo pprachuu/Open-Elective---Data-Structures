@@ -1,3 +1,1 @@
-Name Tarush 
-Sid 21105112
-Branch ECE
+ Tarush 21105112 ECE
