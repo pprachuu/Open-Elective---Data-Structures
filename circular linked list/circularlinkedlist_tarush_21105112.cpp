@@ -1,6 +1,6 @@
-/* [Question.1] While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element? */
+/* Q1) While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element? */
 
-//[Ans.1]
+//Ans 1)
 //Lets take an example and create a basic circular linked list
 #include <iostream>
 using namespace std;
@@ -46,14 +46,23 @@ We Know that in circular linked list last node of linked list points to head of 
 */
 
 
-/*[Question.2]  What are the practical applications of a circular linked list? (Try to find applications in your respective fields).
-Practical applications of circular linked list are :
+/*Q2)  What are the practical applications of a circular linked list? (Try to find applications in your respective fields).
+
+Ans2) Practical applications of circular linked list are :
+
 1)Multiplayer Games: All the Players are kept in a Circular Linked List and the pointer keeps on moving forward as a player's chance ends.
+
 2)Computing Resources: Circular Linked Lists is used to manage the computing resources of the computer.
+
 3)Fionacci Heap: Circular Linked List is also used in the implementation of advanced data structures such as a Fibonacci Heap.
+
 4)Computer Networking:Circular linked list is also used in computer networking for token scheduling.
+
 5)Implementation of Data Structure: Data structures such as stacks and queues are implemented with the help of the circular linked lists.
+
 6)Audio/Video Streaming: Circular linked list is also used in audio and video streaming,for ex. when one copmlete audio list finishes playing in music player then it again starts playing from start.
+
+
 */
 
 
